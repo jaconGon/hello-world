@@ -1,2 +1,3 @@
 # hello-world
-teste de git da aula de gestão de ciclo de vida da aplicação
+Teste de git , aula de Gestão de Ciclo de Vida da Aplicação.
+isso é um exemplo de commit.
